@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>image/dji.png</file>
+        <file>image/bitbug_favicon.ico</file>
+    </qresource>
+</RCC>
